@@ -79,3 +79,6 @@ a {
 .ex-t-d .sa-img::before {
   background: linear-gradient(0deg, rgb(0 0 0 / 38%) 0%, rgb(0 0 0 / 31%) 98%);
 }
+footer {
+  text-align: center;
+}
